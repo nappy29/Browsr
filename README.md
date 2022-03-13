@@ -54,6 +54,7 @@ be in the tip of our fingers, going further to think of the best way to implemen
 
 One thing I think could be helpful is to allow the user submit their solution via github or even as a pull request. 
 This way they get tester somehow on that and at the same time the company could easily visit the solution.
+
 **I enjoyed this challenge**
 
 # Browsr
